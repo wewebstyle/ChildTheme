@@ -22,3 +22,59 @@ Version: 1.0.0
 .entry-title {
     display: none;
 }
+
+.mec-slider-t1-wrap {
+    background: none !important;
+}
+
+#mec_skin_events_190{
+    text-align: center;
+    color: white;
+}
+
+.home.blog .site-header, .home.page:not(.page-template-template-homepage) .site-header, .home.post-type-archive-product .site-header {
+    margin-bottom: 0 !important;
+}
+
+.woocommerce-active .site-header .site-branding {
+    width: 30% !important;
+    margin-right: 0 !important;
+    position: relative;
+}
+
+.single-product div.product .woocommerce-product-rating {
+    margin-bottom: 1.618em;
+    margin-top: 0 !important;
+}
+
+@media screen and (min-width: 350px) {
+    .site-header .site-branding img {
+        height: auto;
+        max-width: 80% !important;
+        max-height: none;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .site-header .site-branding img {
+        height: auto;
+        max-width: 40% !important;
+        max-height: none;
+    }
+}
+
+.main-navigation ul li, .secondary-navigation ul li {
+    font-size: 1em;
+}
+
+h2, .beta {
+    margin-top: 19px !important;
+}
+
+.mec-slider-t1-wrap {
+    padding-top: 0 !important ;
+}
+
+.site-content {
+    margin-bottom: 15px;
+}
