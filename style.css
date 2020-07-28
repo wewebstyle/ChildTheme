@@ -18,3 +18,7 @@ Version: 1.0.0
 .menu ul li {
     background-color: #DEB887;
 }
+
+.entry-title {
+    display: none;
+}
